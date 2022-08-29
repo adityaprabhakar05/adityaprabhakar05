@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @adityaprabhakar05
 - 👀 I’m interested in mobile app development, web development, cyber security, artificial intelligence, machine learning, data science 
-- 🌱 I’m currently learning Python at school 
-- 💞️ I’m looking to collaborate on mobile app development 
+- 🌱 I’m currently a self paced learner, getting started with basics of C++
 - 📫 How to reach me: DM me on Instagram @b.e.i.n.g.myself 
 
 <!---
